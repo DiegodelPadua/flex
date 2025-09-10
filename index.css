@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    
+
+
+}
+.conteinerRoxo{
+
+   display: flex;
+   background-color: rgb(195, 150, 237);
+
+}
+.roxo{
+border-radius: 50%;
+border: 50px solid purple;
+
+}
+.conteinerVerde{
+
+    display: flex;
+    background-color: rgb(164, 233, 164);
+ 
+ }
+ .verde{
+    border-radius: 50%;
+    border: 50px solid green;
+
+ }
+ .conteinerVermelho{
+    display: flex;
+    background-color: rgb(241, 141, 141);
+
+
+ }
+ .vermelho{
+    border-radius: 50%;
+    border: 50px solid red;
+
+ }
+ .conteinerAmarelo{
+    display: flex;
+    background-color: rgb(253, 252, 163);
+
+ }
+ .amarelo{
+    border-radius: 50%;
+    border: 50px solid yellow;
+
+
+
+ }
+ .conteinerAzul{
+    display: flex;
+    background-color: rgb(56, 183, 242);
+
+
+ }
+ .azul{
+    border-radius: 50%;
+    border: 50px solid blue;
+
+
+ }
