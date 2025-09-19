@@ -64,7 +64,7 @@ background-color:  green;
     display: flex;
     background-color: rgb(241, 236, 141);
     height: 216px;
-    justify-content: center;
+    justify-content: space-between;
     align-items:center;
     gap: 10px;
 
@@ -83,7 +83,7 @@ background-color:  green;
      display: flex;
     background-color: rgb(141, 236, 241);
     height: 216px;
-    justify-content: center;
+    justify-content: space-around;
     align-items:center;
     gap: 10px;
 
