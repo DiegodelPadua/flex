@@ -14,11 +14,15 @@ body{
    display: flex;
    background-color: rgb(195, 150, 237);
    height: 216px;
+   justify-content: end;
+   align-items: center;
 
 }
 .roxo{
 border-radius: 50%;
-border: 50px solid purple;
+width: 150px;
+height: 150px;
+background-color:  purple;
 
 
 }
@@ -27,23 +31,29 @@ border: 50px solid purple;
     display: flex;
     background-color: rgb(164, 233, 164);
     height: 216px;
+    justify-content: end;
  
  }
  .verde{
-    border-radius: 50%;
-    border: 50px solid green;
+   border-radius: 50%;
+width: 150px;
+height: 150px;
+background-color:  green;
 
  }
  .conteinerVermelho{
     display: flex;
     background-color: rgb(241, 141, 141);
     height: 216px;
+    justify-content: center;
 
 
  }
  .vermelho{
-    border-radius: 50%;
-    border: 50px solid red;
+   border-radius: 50%;
+   width: 150px;
+   height: 150px;
+   background-color: red;
 
  }
  .conteinerAmarelo{
@@ -52,9 +62,10 @@ border: 50px solid purple;
 
  }
  .amarelo{
-    border-radius: 50%;
-    border: 50px solid yellow;
-    height: 216px;
+   border-radius: 50%;
+   width: 150px;
+   height: 150px;
+   background-color:  yellow;
 
 
 
@@ -67,8 +78,10 @@ border: 50px solid purple;
 
  }
  .azul{
-    border-radius: 50%;
-    border: 50px solid blue;
+   border-radius: 50%;
+   width: 150px;
+   height: 150px;
+   background-color:  blue;
 
 
  }
